@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ class\ handles\ user\ data\ gathering\r\n\r\n\ @author\ \ Oyunomin\ Munkhkhurel\r\n\ @version\ 3/12/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Asks\ three\ question\ from\ the\ user,\ calls\ the\ validation\ and\ creates\ Simulation\ object\r\n\ \r\n\ @param\ \ \ String[]\ \ \ \ arguments\r\n
+comment2.params=scan\ min\ max
+comment2.target=int\ getInRangeInt(java.util.Scanner,\ int,\ int)
+comment2.text=\r\n\ Checks\ if\ it\ is\ an\ integer\ and\ in\ the\ specific\ range\ and\ if\ no\ keep\ asking\r\n\ and\ when\ it\ gets\ valid\ integer\ returns\ that\ integer\r\n\ \r\n\ @param\ \ \ Scanner\ \ \ scanner\ object\ that\ gathers\ user\ input\r\n\ @param\ \ \ int\ \ \ \ \ \ \ minimun\ value\r\n\ @param\ \ \ int\ \ \ \ \ \ \ maximun\ value\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ valid\ integer\ in\ the\ range\r\n
+comment3.params=scan\ min\ max
+comment3.target=double\ getInRangeDouble(java.util.Scanner,\ double,\ double)
+comment3.text=\r\n\ Checks\ if\ it\ is\ an\ double\ and\ in\ the\ specific\ range\ and\ if\ no\ keep\ asking\r\n\ and\ when\ it\ gets\ valid\ double\ returns\ that\ integer\r\n\ \r\n\ @param\ \ \ Scanner\ \ \ scanner\ object\ that\ gathers\ user\ input\r\n\ @param\ \ \ int\ \ \ \ \ \ \ minimun\ value\r\n\ @param\ \ \ int\ \ \ \ \ \ \ maximun\ value\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ valid\ integer\ in\ the\ range\r\n
+numComments=4

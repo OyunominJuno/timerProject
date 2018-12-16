@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Simulation\ here.\r\n\r\n\ @author\ \ \ Oyunomin\ Munkhkhurel\r\n\ @version\ \ 3/12/2018\r\n
+comment1.params=initialQ\ callInterval\ increment
+comment1.target=Simulation(int,\ double,\ int)
+comment2.params=
+comment2.target=void\ readData()
+comment2.text=\r\n\ Reads\ data\ from\ the\ specified\ files\ and\ creates\ necessary\ objects\r\n\ \r\n\ @throws\ \ FileNotFoundException\ \ \ if\ file\ does\ not\ found\r\n
+comment3.params=
+comment3.target=Simulation.WeekDay\ getRandomWeekDay()
+comment3.text=\r\n\ Retrieves\ random\ day\ from\ the\ enum\ WeekDay\r\n\ \r\n\ @return\ \ \ randomly\ chosen\ week\ day\r\n
+numComments=4
